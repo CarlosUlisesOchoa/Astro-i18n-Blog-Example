@@ -79,3 +79,8 @@ You can check TODO-List at [TODO.md](./.github/TODO.md)
 ## Acknowledgements
 
 - Special thanks to [@kslstn](https://github.com/kslstn) for the [astro-i18n-blog-starter](https://github.com/kslstn/astro-i18n-blog-starter), which served as a base for this version.
+
+## About developer
+
+Visit my web [Carlos Ochoa](https://carlos8a.com?ref=gh)
+
